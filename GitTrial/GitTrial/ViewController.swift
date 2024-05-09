@@ -10,6 +10,8 @@ import UIKit
 class ViewController: UIViewController {
     let dbwlsName = "한유진"
 
+    let jihyeName = "박지혜"
+    
     @IBOutlet weak var lbl: UILabel!
     
     override func viewDidLoad() {

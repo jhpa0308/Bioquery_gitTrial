@@ -8,6 +8,7 @@
 import UIKit
 
 class ViewController: UIViewController {
+    let dbwlsName = "한유진"
 
     @IBOutlet weak var lbl: UILabel!
     

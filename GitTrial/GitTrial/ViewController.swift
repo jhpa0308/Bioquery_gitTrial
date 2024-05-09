@@ -9,6 +9,8 @@ import UIKit
 
 class ViewController: UIViewController {
 
+    let jihyeName = "박지혜"
+    
     @IBOutlet weak var lbl: UILabel!
     
     override func viewDidLoad() {
